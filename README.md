@@ -9,7 +9,7 @@
 Table of Contents
 <ol>
 <li><a href="#about-the-project">About The Project</a></li>
-<li><a href="#built-with-d3-javascript-and-plotly-framework">Built With D3 Javascript and Plotly Framework</a></li>
+<li><a href="#built-with-d3-js-and-plotly-framework">Built With D3.js and Plotly Framework</a></li>
 <li><a href="#contributing">Contributing (UC Berkeley Bootcamp Students Only) </a></li>
 <li><a href="#contact">Contact</a></li>
 <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -68,25 +68,21 @@ https://thaychansy.github.io/belly-button-challenge/
   
 <!-- BUILT -->
 
-## Built with D3 JavaScript and Plotly Framework 
+## Built with D3 js and Plotly Framework 
 
-ETL is a data integration process that involves extracting data from various sources, transforming it into a desired format, and loading it into a target system for further analysis or processing. It's a critical component of data warehousing and business intelligence solutions.
+D3.js and Plotly are two popular JavaScript libraries used for creating interactive and visually appealing data visualizations. While they share a common goal, they offer distinct approaches and cater to different needs.
 
 
-1. Extraction
-- Data Sources: This phase involves identifying and connecting to data sources, which can include databases (SQL, NoSQL), flat files (CSV, JSON, XML), APIs, or other systems.
-- Data Retrieval: The data is extracted from these sources and fetched into the ETL process.
+1. D3.js (D3 JavaScript)
+- Low-level control: D3.js provides fine-grained control over every aspect of the visualization, allowing for highly customized and unique designs.
+- Steep learning curve: Due to its flexibility, D3.js can have a steep learning curve, requiring a deep understanding of JavaScript, DOM manipulation, and SVG.
+- Ideal for: Complex, custom visualizations, where complete control over the rendering process is essential.
 
-2. Transformation
-- Data Cleaning: This phase involves handling missing values, inconsistencies, and errors in the extracted data.
-- Data Standardization: Data is formatted consistently across different sources.
-- Data Enrichment: Additional data might be added or derived from existing data.
-- Data Aggregation: Data is summarized or aggregated as required.
-- Data Validation: Data integrity is checked to ensure accuracy.
-
-3. Loading
-- Target System: The transformed data is loaded into a target system, such as a data warehouse, data mart, or operational database.
-- Data Storage: Data is stored in a structured format for efficient querying and analysis.
+3. Plotly: The High-Level Abstraction
+- Declarative syntax: Plotly offers a declarative API, making it easier to create various chart types with less code.
+- Wide range of chart types: Supports a vast array of charts, including line, bar, scatter, pie, and 3D plots.
+- Interactive features: Provides built-in interactivity features like zooming, panning, and tooltips.
+- Ideal for: Rapid prototyping, creating interactive dashboards, and
   
   <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
