@@ -83,16 +83,22 @@ https://thaychansy.github.io/belly-button-challenge/
 D3.js and Plotly are two popular JavaScript libraries used for creating interactive and visually appealing data visualizations. While they share a common goal, they offer distinct approaches and cater to different needs.
 
 
-1. D3.js (D3 JavaScript)
+1. D3.js: (D3 JavaScript)
 - Low-level control: D3.js provides fine-grained control over every aspect of the visualization, allowing for highly customized and unique designs.
 - Steep learning curve: Due to its flexibility, D3.js can have a steep learning curve, requiring a deep understanding of JavaScript, DOM manipulation, and SVG.
 - Ideal for: Complex, custom visualizations, where complete control over the rendering process is essential.
 
-3. Plotly: The High-Level Abstraction
+2. Plotly: The High-Level Abstraction
 - Declarative syntax: Plotly offers a declarative API, making it easier to create various chart types with less code.
 - Wide range of chart types: Supports a vast array of charts, including line, bar, scatter, pie, and 3D plots.
 - Interactive features: Provides built-in interactivity features like zooming, panning, and tooltips.
 - Ideal for: Rapid prototyping and creating interactive dashboards.
+
+3. DOM: A Tree of Objects
+- DOM stands for Document Object Model. It's a programming interface that represents HTML and XML documents as a tree of objects.
+- Think of it as a structured representation of a webpage, where each element (like a paragraph, heading, or image) is considered a node in this tree.
+  
+
   
   <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
