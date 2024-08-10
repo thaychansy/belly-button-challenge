@@ -49,7 +49,7 @@ function buildCharts(sample) {
       marker: {
           size: sample_values,
           color: otu_ids,
-          colorscale: "Picnic"     
+          colorscale: "Plasma"     
       }
 
   }];
@@ -58,7 +58,7 @@ function buildCharts(sample) {
     title: 'Bacterial Cultures per Sample',
     xaxis: { title: 'OTU ID' },
     yaxis: { title: 'Number of Bacteria' },
-    paper_bgcolor: 'lightskyblue',
+    paper_bgcolor: '#d8576b',
     plot_bgcolor: 'white',
     font: {
         color: 'white'
@@ -79,7 +79,8 @@ function buildCharts(sample) {
     orientation: "h",
     border: 2,
     marker: {
-      color: "lightskyblue"
+      color: otu_ids,
+      colorscale: "Plasma"
     }
   
 }];
