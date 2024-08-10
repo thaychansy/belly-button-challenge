@@ -1,4 +1,4 @@
-<h1  align="center">Belly Button Biodiversity D3 JavaScript and Plotly Project</h1>
+<h1  align="center">Belly Button Biodiversity D3.js and Plotly Project</h1>
 <a name="readme-top"></a>
 
 
