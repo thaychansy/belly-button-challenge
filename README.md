@@ -65,7 +65,7 @@ The following steps to be completed:
 
 5. Update all the plots when a new sample is selected. Create any custom layout for the dashboard. 
 
-6. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
+6. Deploy the app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/b5a36675-7296-4de2-aae0-a5378dc4ffc2">
 
