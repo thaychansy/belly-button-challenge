@@ -70,7 +70,7 @@ The following steps to be completed:
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/b5a36675-7296-4de2-aae0-a5378dc4ffc2">
 
 
-### Live Link to GitHub Pages:
+### GitHub Pages Live Link:
 
 https://thaychansy.github.io/belly-button-challenge/
    
