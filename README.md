@@ -37,6 +37,9 @@ The following steps to be completed:
 - Use 'otu_ids' as the labels for the bar chart.
 
 - Use 'otu_labels' as the hovertext for the chart.
+
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/00a28ac8-d3f9-48e5-b2a5-acca4f3c41b9">
+
   
 3. Create a bubble chart that displays each sample.
 
@@ -50,13 +53,22 @@ The following steps to be completed:
 
 - `Use otu_labels` for the text values.
 
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/3bda71a9-ec94-4d62-9910-6b84781a6fe2">
+
+
 4. Display the sample's metadata, i.e., an individual's demographic information.
    - Loop through each key-value pair from the metadata JSON object and create a text string.
    - Append an html tag with that text to the `#sample-metadata` panel.
+  
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/0d8ce2d9-812c-4cd9-bfdb-ff90c41d2a7a">
+
 
 5. Update all the plots when a new sample is selected. Create any custom layout for the dashboard. 
 
 6. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/b5a36675-7296-4de2-aae0-a5378dc4ffc2">
+
 
 ### Live Link to GitHub Pages:
 
@@ -80,7 +92,7 @@ D3.js and Plotly are two popular JavaScript libraries used for creating interact
 - Declarative syntax: Plotly offers a declarative API, making it easier to create various chart types with less code.
 - Wide range of chart types: Supports a vast array of charts, including line, bar, scatter, pie, and 3D plots.
 - Interactive features: Provides built-in interactivity features like zooming, panning, and tooltips.
-- Ideal for: Rapid prototyping, creating interactive dashboards, and
+- Ideal for: Rapid prototyping and creating interactive dashboards.
   
   <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
