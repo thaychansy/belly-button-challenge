@@ -58,8 +58,11 @@ function buildCharts(sample) {
     title: 'Bacterial Cultures per Sample',
     xaxis: { title: 'OTU ID' },
     yaxis: { title: 'Number of Bacteria' },
-    paper_bgcolor: 'lightskyblue',  
-    plot_bgcolor: 'white'       
+    paper_bgcolor: 'lightskyblue',
+    plot_bgcolor: 'white',
+    font: {
+        color: 'white'
+    }
 }
 
     // Render the Bubble Chart
@@ -76,7 +79,7 @@ function buildCharts(sample) {
     orientation: "h",
     border: 2,
     marker: {
-      color: 'lightskyblue'
+      color: "lightskyblue"
     }
   
 }];
