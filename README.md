@@ -60,7 +60,7 @@ The following steps to be completed:
    - Loop through each key-value pair from the metadata JSON object and create a text string.
    - Append an html tag with that text to the `#sample-metadata` panel.
   
-  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/0d8ce2d9-812c-4cd9-bfdb-ff90c41d2a7a">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/0d8ce2d9-812c-4cd9-bfdb-ff90c41d2a7a">
 
 
 5. Update all the plots when a new sample is selected. Create any custom layout for the dashboard. 
