@@ -3,6 +3,6 @@ Interactive visualization project using D3 JavaScript and Plotly into building a
 
 ECD: August 12, 2024
 
-# Link to Demo Site
+# Live link to Demo Site
 https://thaychansy.github.io/belly-button-challenge/
 
