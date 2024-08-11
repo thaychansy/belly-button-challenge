@@ -38,7 +38,7 @@ The following steps to be completed:
 
 - Use 'otu_labels' as the hovertext for the chart.
 
-  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/00a28ac8-d3f9-48e5-b2a5-acca4f3c41b9">
+ <kbd> <img width="1000" alt="image" src="https://github.com/user-attachments/assets/00a28ac8-d3f9-48e5-b2a5-acca4f3c41b9"> </kbd>
 
   
 3. Create a bubble chart that displays each sample.
@@ -53,21 +53,21 @@ The following steps to be completed:
 
 - `Use otu_labels` for the text values.
 
-  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/3bda71a9-ec94-4d62-9910-6b84781a6fe2">
+ <kbd> <img width="1000" alt="image" src="https://github.com/user-attachments/assets/3bda71a9-ec94-4d62-9910-6b84781a6fe2"> </kbd>
 
 
 4. Display the sample's metadata, i.e., an individual's demographic information.
    - Loop through each key-value pair from the metadata JSON object and create a text string.
    - Append an html tag with that text to the `#sample-metadata` panel.
   
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/0d8ce2d9-812c-4cd9-bfdb-ff90c41d2a7a">
+ <kbd> <img width="500" alt="image" src="https://github.com/user-attachments/assets/0d8ce2d9-812c-4cd9-bfdb-ff90c41d2a7a"> </kdb>
 
 
 5. Update all the plots when a new sample is selected. Create any custom layout for the dashboard. 
 
 6. Deploy the app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/b5a36675-7296-4de2-aae0-a5378dc4ffc2">
+<kbd> <img width="1000" alt="image" src="https://github.com/user-attachments/assets/b5a36675-7296-4de2-aae0-a5378dc4ffc2"> </kbd>
 
 
 ### GitHub Pages Live Link:
