@@ -60,14 +60,14 @@ The following steps to be completed:
    - Loop through each key-value pair from the metadata JSON object and create a text string.
    - Append an html tag with that text to the `#sample-metadata` panel.
   
- <kbd> <img width="500" alt="image" src="https://github.com/user-attachments/assets/0d8ce2d9-812c-4cd9-bfdb-ff90c41d2a7a"> </kdb>
+ <kbd> <img width="500" alt="image" src="https://github.com/user-attachments/assets/c23220de-2db1-4526-ad88-9dde381f3cc5"> </kdb>
 
 
 5. Update all the plots when a new sample is selected. Create any custom layout for the dashboard. 
 
 6. Deploy the app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
 
-<kbd> <img width="1000" alt="image" src="https://github.com/user-attachments/assets/b5a36675-7296-4de2-aae0-a5378dc4ffc2"> </kbd>
+<kbd> <img width="958" alt="image" src="https://github.com/user-attachments/assets/5c040941-1976-426a-b468-05c6681dd492"> </kbd>
 
 
 ### GitHub Pages Live Link:
