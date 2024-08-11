@@ -36,19 +36,19 @@ function buildCharts(sample) {
     let filterResult = result[0];
 
     // Get the otu_ids, otu_labels, and sample_values
-    let otu_ids = filterResult.otu_ids;
-    let otu_labels = filterResult.otu_labels;
-    let sample_values = filterResult.sample_values;
+    let otuIds = filterResult.otu_ids;
+    let otuLabels = filterResult.otu_labels;
+    let sampleValues = filterResult.sample_values;
 
     // Build a Bubble Chart
     let bubbleData = [{
-      x: otu_ids,
-      y: sample_values,
-      text: otu_labels,
+      x: otuIds,
+      y: sampleValues,
+      text: otuLabels,
       mode: "markers",
       marker: {
-          size: sample_values,
-          color: otu_ids,
+          size: sampleValues,
+          color: otuIds,
           colorscale: "Plasma"     
       }
 
@@ -72,14 +72,14 @@ function buildCharts(sample) {
 // Build a Bar Chart
 // Don't forget to slice and reverse the input data appropriately
   let barData = [{
-    y: otu_ids.slice(0, 10).map(val => `OTU ${val}`).reverse(),
-    x: sample_values.slice(0, 10).reverse(),
-    text: otu_labels.slice(0, 10).reverse(),
+    y: otuIds.slice(0, 10).map(val => `OTU ${val}`).reverse(),
+    x: sampleValues.slice(0, 10).reverse(),
+    text: otuLabels.slice(0, 10).reverse(),
     type: "bar",
     orientation: "h",
     border: 2,
     marker: {
-      color: otu_ids,
+      color: otuIds,
       colorscale: "Plasma"
     }
   
@@ -105,13 +105,13 @@ function init() {
     let sampleName = data.names;
 
     // Use d3 to select the dropdown with id of `#selDataset`
-    let dataid = d3.select("#selDataset")
+    let dataId = d3.select("#selDataset")
 
     // Use the list of sample names to populate the select options
     // Hint: Inside a loop, you will need to use d3 to append a new
     // option for each sample name.
     sampleName.forEach((sampleid)=> {
-      dataid.append("option")
+      dataId.append("option")
           .text(sampleid)
           .property("value", sampleid)
   })
