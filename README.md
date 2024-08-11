@@ -196,6 +196,7 @@ Here's a list of resources we found helpful and would like to give credit to.
 * [Chat GPT] [ChatGPT](https://chatgpt.com/)
 * [Google Gemini] [Gemini Generative AI](https://gemini.google.com/app)
 * [Stack Overflow] [Plot a bubble chart using Plotly](https://stackoverflow.com/questions/41798279/plot-a-bubble-chart-using-plotly)
+* [Plotly.com] [Plotly JavaScript](https://plotly.com/javascript/)
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
