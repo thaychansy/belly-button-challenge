@@ -67,7 +67,7 @@ The following steps to be completed:
 
 6. Deploy the app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
 
-<kbd> <img width="958" alt="image" src="https://github.com/user-attachments/assets/5c040941-1976-426a-b468-05c6681dd492"> </kbd>
+<kbd> <img width="800" src="images/gif/biodiversity_dashboard.gif" alt="biodiversity dashboard" /> </kbd>
 
 
 ### GitHub Pages Live Link:
