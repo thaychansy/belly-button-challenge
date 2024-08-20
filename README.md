@@ -25,6 +25,10 @@ This project involves building an interactive dashboard to explore the `Belly Bu
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or `OTUs`, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
+### GitHub Pages Live Link:
+
+https://thaychansy.github.io/belly-button-challenge/
+
 ### Instructions
 The following steps to be completed:
 
@@ -69,10 +73,6 @@ The following steps to be completed:
 
 <img width="800" src="images/gif/biodiversity_dashboard.gif" alt="biodiversity dashboard" />
 
-
-### GitHub Pages Live Link:
-
-https://thaychansy.github.io/belly-button-challenge/
    
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
   
