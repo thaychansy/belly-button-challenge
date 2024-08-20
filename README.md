@@ -29,6 +29,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 https://thaychansy.github.io/belly-button-challenge/
 
+<img width="800" src="images/gif/biodiversity_dashboard.gif" alt="biodiversity dashboard" />
+
 ### Instructions
 The following steps to be completed:
 
@@ -71,7 +73,6 @@ The following steps to be completed:
 
 6. Deploy the app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
 
-<img width="800" src="images/gif/biodiversity_dashboard.gif" alt="biodiversity dashboard" />
 
    
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
