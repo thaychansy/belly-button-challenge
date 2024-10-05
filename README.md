@@ -27,7 +27,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ### GitHub Pages Live Link:
 
-[https://thaychansy.github.io/belly-button-challenge/](https://thaychansy.github.io/d3.js-plotly/)
+https://thaychansy.github.io/d3.js-plotly
 
 <img width="800" src="images/gif/biodiversity_dashboard.gif" alt="biodiversity dashboard" />
 
